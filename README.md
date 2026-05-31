@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
