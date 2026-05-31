@@ -1,8 +1,7 @@
-from typing import List
 from collections import defaultdict, deque
 
-class Solution:
-    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+class Solution(object):
+    def canFinish(self, numCourses, prerequisites):
         graph = defaultdict(list)
         indegree = [0] * numCourses
 
@@ -16,16 +15,16 @@ class Solution:
             if indegree[i] == 0:
                 q.append(i)
 
-        taken = 0
+        completed = 0
 
         while q:
-            node = q.popleft()
-            taken += 1
+            course = q.popleft()
+            completed += 1
 
-            for nei in graph[node]:
+            for nei in graph[course]:
                 indegree[nei] -= 1
 
                 if indegree[nei] == 0:
                     q.append(nei)
 
-        return taken == numCourses
+        return completed == numCourses
