@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2126-destroying-asteroids](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Array
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3161-block-placement-queries](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3161-block-placement-queries) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [3161-block-placement-queries](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3161-block-placement-queries) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [2126-destroying-asteroids](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
