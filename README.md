@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Design
