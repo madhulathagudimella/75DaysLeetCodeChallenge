@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Design
 |  |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 ## Union-Find
 |  |
 | ------- |
