@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 ## Two Pointers
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [2126-destroying-asteroids](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 |  |
