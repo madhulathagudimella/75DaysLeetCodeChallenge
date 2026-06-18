@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
 ## Backtracking
 |  |
 | ------- |
