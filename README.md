@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0745-prefix-and-suffix-search](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0745-prefix-and-suffix-search) |
 | [0904-fruit-into-baskets](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0745-prefix-and-suffix-search](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0745-prefix-and-suffix-search) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0745-prefix-and-suffix-search](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0745-prefix-and-suffix-search) |
 | [0875-koko-eating-bananas](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0745-prefix-and-suffix-search](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0745-prefix-and-suffix-search) |
 ## Queue
 |  |
 | ------- |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+| [0745-prefix-and-suffix-search](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0745-prefix-and-suffix-search) |
 ## Bit Manipulation
 |  |
 | ------- |
