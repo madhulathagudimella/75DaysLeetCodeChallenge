@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2126-destroying-asteroids](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Array
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [2126-destroying-asteroids](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
 | [3161-block-placement-queries](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3161-block-placement-queries) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
 ## Quickselect
 |  |
 | ------- |
