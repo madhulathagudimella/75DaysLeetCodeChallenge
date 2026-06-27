@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0745-prefix-and-suffix-search](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0745-prefix-and-suffix-search) |
 | [0904-fruit-into-baskets](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
 ## String
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0745-prefix-and-suffix-search) |
 | [0875-koko-eating-bananas](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
