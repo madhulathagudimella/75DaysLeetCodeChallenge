@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
 ## String
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Design
 |  |
