@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
@@ -502,9 +504,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
