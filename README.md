@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0745-prefix-and-suffix-search](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0745-prefix-and-suffix-search) |
+| [2000-reverse-prefix-of-word](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3794-reverse-string-prefix) |
 ## Sorting
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3794-reverse-string-prefix](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [2000-reverse-prefix-of-word](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
 ## Math
 |  |
 | ------- |
