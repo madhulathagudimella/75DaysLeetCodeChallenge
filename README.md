@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0745-prefix-and-suffix-search](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0745-prefix-and-suffix-search) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3794-reverse-string-prefix](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
