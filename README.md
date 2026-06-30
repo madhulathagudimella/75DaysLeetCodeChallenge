@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0621-task-scheduler](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2126-destroying-asteroids](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
