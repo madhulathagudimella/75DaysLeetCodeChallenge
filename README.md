@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0745-prefix-and-suffix-search](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0745-prefix-and-suffix-search) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3794-reverse-string-prefix) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
