@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3161-block-placement-queries](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3161-block-placement-queries) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
 | ------- |
