@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [2000-reverse-prefix-of-word](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
 ## Math
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
