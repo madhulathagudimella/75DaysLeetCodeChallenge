@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [1695-maximum-erasure-value](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
+| [1861-rotating-the-box](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1861-rotating-the-box](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
 | [2000-reverse-prefix-of-word](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3794-reverse-string-prefix](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3794-reverse-string-prefix) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [1861-rotating-the-box](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
 ## Tree
 |  |
 | ------- |
