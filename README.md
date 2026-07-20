@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1861-rotating-the-box](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
 ## Tree
 |  |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
