@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
@@ -637,4 +639,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
