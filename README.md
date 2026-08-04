@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/madhulathagudimella/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
